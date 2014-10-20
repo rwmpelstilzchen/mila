@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    id="svg3978"
+    viewBox="0 0 90 128"
+    version="1.1"
+  >
+  <g
+      id="layer1"
+      transform="translate(-140.54 -309.99)"
+    >
+    <path
+        id="rect3801"
+        style="opacity:0.99;fill-opacity:.99608;fill:#000000"
+        d="m185.55 309.99c-13.152 0-23.818 10.746-23.818 23.998s10.665 23.998 23.818 23.998c13.152 0 23.818-10.746 23.818-23.998s-10.665-23.998-23.818-23.998zm-13.628 50.985c-3.4524 0-6.787 0.46053-9.6633 2.8398l-19.079 19.223c-3.2874 3.3123-3.5331 8.3923-0.55751 11.39 2.9756 2.9981 8.0484 2.7506 11.336-0.56172l9.5704-9.6429v8.7066h44.042v-8.7378l9.6014 9.6741c3.2874 3.3123 8.3292 3.5598 11.305 0.56172 2.9756-2.9981 2.6989-8.0782-0.58847-11.39l-19.079-19.223c-3.0469-2.488-6.3051-2.823-9.6324-2.8398-9.0852 0.00007-18.17-0.00011-27.256 0.00001zm35.649 36.106-7.5572 6.335-8.92 7.4896 5.9776 10.423-2.4778 2.6838c-3.5349 3.7771-4.1882 9.1923-1.4247 12.139 2.7635 2.9471 7.8629 2.2792 11.398-1.4979l9.3846-10.049c2.1491-2.2963 3.2079-5.1865 3.0972-7.7705-0.0453-1.935-0.42183-3.9285-1.2079-5.3363zm-44.042 0.0313-8.2696 14.386c-0.9661 1.686-1.3637 3.5373-1.2389 5.3363-0.11074 2.584 0.97906 5.4741 3.1282 7.7705l9.3846 10.049c3.5349 3.7771 8.6033 4.445 11.367 1.4979 2.7635-2.9471 2.1412-8.3623-1.3937-12.139l-2.5087-2.6838 5.9776-10.423-8.92-7.4896-7.5262-6.3038z"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
